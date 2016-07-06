@@ -3,9 +3,10 @@ title: notes
 date: 2016-07-05
 categories: 电气工程
 tags:
-    - deferrable demand
+    - deferrable
     - 柔性建模
     - 机组组合
+    - 可再生能源
 ---
 
  Notes about [Large-scale integration of deferrable demand and renewable energy sources](http://ieor.berkeley.edu/~oren/pubs/No113.pdf)
